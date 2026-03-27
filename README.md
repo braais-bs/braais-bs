@@ -1,12 +1,3 @@
-# Heey! Soy Brais
+# Brais Bértolo Senra
 
-## 🚀 Sobre mí:
 Actualmente estudiando Ingeniaría Informática en Sistemas de Información en la USAL.
-
-## 🔗 Conéctate conmigo
-
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/braais.bs?igsh=cWp2czBoaWcyd2Vk&utm_source=qr)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:braismini@gmail.com)
-
-## 💻 Proyectos destacados
-- 📝 **Testador** - Aplicación para crear y resolver tests online
